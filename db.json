@@ -1,53 +1,50 @@
-{
-    "thumbnails": [
-      {
-        "id": 1,
-        "title": "Spices",
-        "image":
-            "https://images.pexels.com/photos/277253/pexels-photo-277253.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-      },
-      {
-        "id": 2,
-        "title": "Mirchi",
-        "image":
-            "https://images.pexels.com/photos/112780/pexels-photo-112780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      },
-      {
-        "id": 3,
-        "title": "Ginger",
-        "image":
-            "https://images.pexels.com/photos/161556/ginger-plant-asia-rhizome-161556.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-      },
-      {
-        "id": 4,
-        "title": "Roses",
-        "image":
-            "https://images.pexels.com/photos/1517358/pexels-photo-1517358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      },
-      {
-        "id": 5,
-        "title": "Lotus",
-        "image":
-            "https://images.pexels.com/photos/1179859/pexels-photo-1179859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      },
-      {
-        "id": 6,
-        "title": "Hibiscus",
-        "image":
-            "https://images.pexels.com/photos/1549186/pexels-photo-1549186.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-      },
-      {
-        "id": 7,
-        "title": "Tiger",
-        "image":
-            "https://images.pexels.com/photos/145900/pexels-photo-145900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      },
-      {
-        "id": 8,
-        "title": "Parrot",
-        "image":
-            "https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      }
-    ],
-    "status": true
-  }
+[
+    {
+      "id": 1,
+      "title": "Spices",
+      "image":
+          "https://images.pexels.com/photos/277253/pexels-photo-277253.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },
+    {
+      "id": 2,
+      "title": "Mirchi",
+      "image":
+          "https://images.pexels.com/photos/112780/pexels-photo-112780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 3,
+      "title": "Ginger",
+      "image":
+          "https://images.pexels.com/photos/161556/ginger-plant-asia-rhizome-161556.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },
+    {
+      "id": 4,
+      "title": "Roses",
+      "image":
+          "https://images.pexels.com/photos/1517358/pexels-photo-1517358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 5,
+      "title": "Lotus",
+      "image":
+          "https://images.pexels.com/photos/1179859/pexels-photo-1179859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 6,
+      "title": "Hibiscus",
+      "image":
+          "https://images.pexels.com/photos/1549186/pexels-photo-1549186.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },
+    {
+      "id": 7,
+      "title": "Tiger",
+      "image":
+          "https://images.pexels.com/photos/145900/pexels-photo-145900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 8,
+      "title": "Parrot",
+      "image":
+          "https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ]
