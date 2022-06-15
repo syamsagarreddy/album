@@ -1,5 +1,5 @@
 {
   "User": {
-    "name": "Sagar"
+    "name": { "string": {} }
   }
 }
